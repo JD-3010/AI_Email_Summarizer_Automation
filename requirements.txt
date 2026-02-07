@@ -1,0 +1,8 @@
+#pip install google-auth google-auth-oauthlib google-api-python-client requests feedparser python-telegram-bot
+
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
+feedparser
+python-telegram-bot==20.7
