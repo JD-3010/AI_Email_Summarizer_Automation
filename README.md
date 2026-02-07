@@ -130,7 +130,7 @@ Have a great day 🚀
 ```
 
 ---
-🔧 How It Works
+## 🔧 How It Works
 
 - Program starts and checks for Gmail OAuth token
 - Fetches the latest emails (last N emails)
@@ -149,7 +149,7 @@ Have a great day 🚀
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Schedule daily execution using Task Scheduler (Windows) or cron (Linux)
 - Highlight urgent or action-required emails at the top
@@ -160,7 +160,7 @@ Have a great day 🚀
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates how to combine local AI (Ollama + LLaMA) with real-world automation:
 
