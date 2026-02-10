@@ -4,7 +4,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-LLM-purple?logo=data:image/png;base64,iVBORw0KGgo...)]()
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&logoColor=white)]()
 ---
-Do Connect through LinkedIn : www.linkedin.com/in/jeremy-david-643870201/
+#### Do Connect through LinkedIn : www.linkedin.com/in/jeremy-david-643870201/
 ---
 
 ## 📝 Project Description
